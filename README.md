@@ -11,7 +11,10 @@ Ports of my Vencord user plugins to Discord Android (Revenge / Kettu, Vendetta p
 Cookies are stored only in the plugin storage on the phone, never in this repo.
 
 ## Install
-Revenge/Kettu settings > Plugins > + and paste `<pages url>/<plugin>/`.
+Revenge/Kettu settings > Plugins > + and paste one of:
+- https://osucelsius.github.io/RevengePlugins/dist/fgfTools/
+- https://osucelsius.github.io/RevengePlugins/dist/steamIntegration/
+- https://osucelsius.github.io/RevengePlugins/dist/questify/
 
 ## Build
 ```
