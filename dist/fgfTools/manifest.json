@@ -1,0 +1,15 @@
+{
+  "name": "FGFTools",
+  "description": "Claim All for itch.io, CLAIM for Epic Games / GOG giveaways (r/FreeGameFindings)",
+  "authors": [
+    {
+      "name": "OsuCelsius",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "780e004fb145589f9ae2dd417cfdb226890344aa560dd0aa4ad1b1a4a014b191",
+  "vendetta": {
+    "icon": "GiftIcon"
+  }
+}

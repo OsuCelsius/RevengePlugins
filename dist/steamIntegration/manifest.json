@@ -1,0 +1,15 @@
+{
+  "name": "Steam Integration",
+  "description": "Steam owned / wishlist / cards / achievements / bundles badge under Steam game messages",
+  "authors": [
+    {
+      "name": "OsuCelsius",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "99bcbe8d590c76d7d902c533a63d3ee8742eb62a1239702f0311d670d302b283",
+  "vendetta": {
+    "icon": "GameControllerIcon"
+  }
+}

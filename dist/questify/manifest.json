@@ -1,0 +1,15 @@
+{
+  "name": "Questify",
+  "description": "Toasts for new and completed quests, and a list of unclaimed quests",
+  "authors": [
+    {
+      "name": "OsuCelsius",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "57ed0c7dde433f2e1b1d8bfb5935b4b82b6b6e6d05acc7e04378ef8be43e7b0c",
+  "vendetta": {
+    "icon": "QuestsIcon"
+  }
+}
